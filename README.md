@@ -1,7 +1,10 @@
-一、Usage
+一、用法
 > ▶ git clone https://github.com/cosyer/es6-env.git
+
 > ▶ cd es6-env
+
 > ▶ yarn / npm install
+
 > ▶ yarn dev / npm run dev
 
 二、搭建过程
