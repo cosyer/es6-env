@@ -1,14 +1,14 @@
 {
   "name": "es6-env",
   "version": "1.0.0",
-  "description": "",
+  "description": "快速搭建es6热更新环境",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server --config ./webpack.dev.config.js --mode development"
   },
   "keywords": [],
-  "author": "",
+  "author": "cosyer",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.26.3",
